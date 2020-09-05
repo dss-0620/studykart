@@ -33,6 +33,8 @@ This Application is built for exchanging book and other materials at University 
 
 ### Product Search
 
+<br/>
+
 ![Prodcut Search Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/search_image.png?raw=true)
 
 <br/>
@@ -42,6 +44,8 @@ This Application is built for exchanging book and other materials at University 
 <br/> <br/>
 
 ### Checkout Page
+
+<br/>
 
 ![Checkout Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/check_out_ui.png?raw=true)
 
@@ -53,6 +57,8 @@ This Application is built for exchanging book and other materials at University 
 
 ### Wishlist Page
 
+<br/>
+
 ![Wishlist_ui](https://github.com/dss-0620/studykart_python/blob/master/Project_images/whishlist_ui.png?raw=true)
 
 <br/>
@@ -63,6 +69,8 @@ This Application is built for exchanging book and other materials at University 
 
 ### Seller's Products Page
 
+<br/>
+
 ![Seller_products](https://github.com/dss-0620/studykart_python/blob/master/Project_images/your_products.png?raw=true)
 
 <br/>
@@ -72,6 +80,8 @@ This Application is built for exchanging book and other materials at University 
 <br/> <br/>
 
 ### My Orders Page
+
+<br/>
 
 ![My_orders_page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/our_orders_ui.png?raw=true)
 
