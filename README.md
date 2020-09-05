@@ -3,12 +3,88 @@
 
 This Application is built for exchanging book and other materials at University level. Currently book exchange is done through whatapp groups which is quiet time consuming and also variety of products is very less. In this our Web application products are sorted according to their price so buyer can find cheapest product at the top. So it makes very easy for buyer.
 
+## Project Description with Images
+
+### Front Page
+
+<br/>
+
+![Top of Front Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/front_ui.png?raw=true)
+
+<br/>
+
+![Products in Front Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/products_ui.png?raw=true)
+
+#### This is Front Page of our web application with sign in card and showing available products.
+
+<br/> <br/>
+
+### Sign Up Page
+
+<br/>
+
+![Products in Front Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/signup_ui.png?raw=true)
+
+<br/>
+
+#### This is sign up page where buyers and sellers can signup and can proceed further.
+
+<br/> <br/>
+
+### Product Search
+
+![Prodcut Search Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/search_image.png?raw=true)
+
+<br/>
+
+#### This page shows the result of searched product available in our database.
+
+<br/> <br/>
+
+### Checkout Page
+
+![Checkout Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/check_out_ui.png?raw=true)
+
+<br/>
+
+#### This page shows products we are interested in buying along with the total price and total products.
+
+<br/> <br/>
+
+### Wishlist Page
+
+![Wishlist_ui](https://github.com/dss-0620/studykart_python/blob/master/Project_images/whishlist_ui.png?raw=true)
+
+<br/>
+
+#### This page shows all the products that we have wishlisted.
+
+<br/> <br/>
+
+### Seller's Products Page
+
+![Seller_products](https://github.com/dss-0620/studykart_python/blob/master/Project_images/your_products.png?raw=true)
+
+<br/>
+
+#### This page shows all the products that seller has listed on our application along with the current status of each product.
+
+<br/> <br/>
+
+### My Orders Page
+
+![My_orders_page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/our_orders_ui.png?raw=true)
+
+<br/>
+
+#### This page shows all the products that buyer had bought and along with the status of each product.
+
+<br/> <br/>
+
 ## Python Frameworks and APIs used
 
  <b>Django</b>: It is used for backend scripting with MYSQL.<br>
  <b>Selenium</b>: It is used for automated web testing of our application.<br>
- <b>Request</b>: It is used to request a web page and get data for web scrapping.<br>
- <b>Beautiful Soup</b>: It is used for web scrapping.<br>
  <b>Pandas</b>: It is used for filtering purpose in Django Admin Page.<br>
 
 ## Project Developers
