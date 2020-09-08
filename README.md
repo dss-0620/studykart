@@ -9,11 +9,11 @@ This Application is built for exchanging book and other materials at University 
 
 <br/>
 
-![Top of Front Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/front_ui.png?raw=true)
+![Top of Front Page](https://github.com/ChandVachhani/Studykart/blob/master/Project_images/front_ui.png?raw=true)
 
 <br/>
 
-![Products in Front Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/products_ui.png?raw=true)
+![Products in Front Page](https://github.com/ChandVachhani/Studykart/blob/master/Project_images/products_ui.png?raw=true)
 
 #### This is Front Page of our web application with sign in card and showing available products.
 
@@ -23,7 +23,7 @@ This Application is built for exchanging book and other materials at University 
 
 <br/>
 
-![Products in Front Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/signup_ui.png?raw=true)
+![Products in Front Page](https://github.com/ChandVachhani/Studykart/blob/master/Project_images/signup_ui.png?raw=true)
 
 <br/>
 
@@ -35,7 +35,7 @@ This Application is built for exchanging book and other materials at University 
 
 <br/>
 
-![Prodcut Search Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/search_image.png?raw=true)
+![Prodcut Search Page](https://github.com/ChandVachhani/Studykart/blob/master/Project_images/search_image.png?raw=true)
 
 <br/>
 
@@ -47,7 +47,7 @@ This Application is built for exchanging book and other materials at University 
 
 <br/>
 
-![Checkout Page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/check_out_ui.png?raw=true)
+![Checkout Page](https://github.com/ChandVachhani/Studykart/blob/master/Project_images/check_out_ui.png?raw=true)
 
 <br/>
 
@@ -59,7 +59,7 @@ This Application is built for exchanging book and other materials at University 
 
 <br/>
 
-![Wishlist_ui](https://github.com/dss-0620/studykart_python/blob/master/Project_images/whishlist_ui.png?raw=true)
+![Wishlist_ui](https://github.com/ChandVachhani/Studykart/blob/master/Project_images/whishlist_ui.png?raw=true)
 
 <br/>
 
@@ -71,7 +71,7 @@ This Application is built for exchanging book and other materials at University 
 
 <br/>
 
-![Seller_products](https://github.com/dss-0620/studykart_python/blob/master/Project_images/your_products.png?raw=true)
+![Seller_products](https://github.com/ChandVachhani/Studykart/blob/master/Project_images/your_products.png?raw=true)
 
 <br/>
 
@@ -83,7 +83,7 @@ This Application is built for exchanging book and other materials at University 
 
 <br/>
 
-![My_orders_page](https://github.com/dss-0620/studykart_python/blob/master/Project_images/our_orders_ui.png?raw=true)
+![My_orders_page](https://github.com/ChandVachhani/Studykart/blob/master/Project_images/our_orders_ui.png?raw=true)
 
 <br/>
 
